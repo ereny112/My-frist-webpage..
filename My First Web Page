@@ -1,0 +1,39 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://MxMWPGqSTdauE0Y:odXD6jFOD5kvULo@localhost:53525/data/data/com.qamar.editor.html/files/alif/etc/samples/welcome.html
+Subject: My First Web Page
+Date: Wed, 30 Apr 2025 12:43:08 +0300
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--ImIGV95tu67br60uYoHYqvFLoBTLXwSCUqe2XXAepe----"
+
+
+------MultipartBoundary--ImIGV95tu67br60uYoHYqvFLoBTLXwSCUqe2XXAepe----
+Content-Type: text/html
+Content-ID: <frame-2360D070EEC602B2E8E8C19DF8CC26E6@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: http://MxMWPGqSTdauE0Y:odXD6jFOD5kvULo@localhost:53525/data/data/com.qamar.editor.html/files/alif/etc/samples/welcome.html
+
+<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252"><link rel="stylesheet" type="text/css" href="cid:css-fcc4e82c-d377-44e2-9697-5d3d10d83938@mhtml.blink" />
+    <title>My First Web Page</title>
+    
+</head>
+<body>
+    <h1>Welcome to my first web page
+        Ereny atef
+  20231392
+    </h1>
+
+
+</body></html>
+------MultipartBoundary--ImIGV95tu67br60uYoHYqvFLoBTLXwSCUqe2XXAepe----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-fcc4e82c-d377-44e2-9697-5d3d10d83938@mhtml.blink
+
+@charset "windows-1252";
+
+body { background-color: pink; text-align: center; margin-top: 100px; }
+
+h1 { color: blue; font-family: Arial, sans-serif; }
+------MultipartBoundary--ImIGV95tu67br60uYoHYqvFLoBTLXwSCUqe2XXAepe------
